@@ -39,5 +39,9 @@ O modelo foi construído seguindo os princípios de **normalização** e boas pr
 ---
 
 
-**Desenvolvido por:** Jose Alves
+## 👨‍💻 Autor
+
+Desenvolvido por **Jose Alves**  
+📧 joseezequiel57@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jose-alves-348122230/)
 
